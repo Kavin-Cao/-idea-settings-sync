@@ -4,7 +4,7 @@
     <property name="created">2021-10-18T14:42:43</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.2.0.0</property>
-    <property name="modified">2021-11-19T14:54:59</property>
+    <property name="modified">2022-03-30T14:57:47</property>
     <property name="originalScheme">Obsidian</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -543,6 +543,11 @@
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
+      </value>
+    </option>
+    <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
+      <value>
+        <option name="BACKGROUND" value="f0f3ef" />
       </value>
     </option>
     <option name="TEXT">
