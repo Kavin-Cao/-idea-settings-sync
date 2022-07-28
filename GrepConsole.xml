@@ -168,6 +168,15 @@
           <option name="models">
             <list>
               <GrepModel>
+                <option name="expression" value="esBO2SQL-where" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
                 <option name="expression" value="" />
               </GrepModel>
             </list>
@@ -177,7 +186,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="esBO2SQL-where" />
+                <option name="expression" value="sBO2SQL-where 17688967683 *****---&gt;" />
               </GrepModel>
             </list>
           </option>
