@@ -204,6 +204,15 @@
           <option name="models">
             <list>
               <GrepModel>
+                <option name="expression" value="查询工作日 当前线程" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
                 <option name="expression" value="" />
               </GrepModel>
             </list>
@@ -213,7 +222,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="查询工作日 当前线程" />
+                <option name="expression" value="getWaybillPrintData -&gt; 批量查询" />
               </GrepModel>
             </list>
           </option>
