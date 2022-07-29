@@ -177,6 +177,15 @@
           <option name="models">
             <list>
               <GrepModel>
+                <option name="expression" value="sBO2SQL-where 17688967683 *****---&gt;" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
                 <option name="expression" value="" />
               </GrepModel>
             </list>
@@ -186,7 +195,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="sBO2SQL-where 17688967683 *****---&gt;" />
+                <option name="expression" value="调用开放平台结束，apiCode: fms.aggregation.financeApprove.getForStu" />
               </GrepModel>
             </list>
           </option>
