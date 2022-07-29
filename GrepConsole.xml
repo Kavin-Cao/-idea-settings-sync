@@ -186,15 +186,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="调用开放平台结束，apiCode: fms.aggregation.financeApprove.getForStu" />
               </GrepModel>
             </list>
@@ -205,6 +196,24 @@
             <list>
               <GrepModel>
                 <option name="expression" value="查询tms结束" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="查询工作日 当前线程" />
               </GrepModel>
             </list>
           </option>
