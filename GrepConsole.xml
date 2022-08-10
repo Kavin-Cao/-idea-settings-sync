@@ -231,6 +231,15 @@
           <option name="models">
             <list>
               <GrepModel>
+                <option name="expression" value="OpenApiCodeRefactor.TMS_WAYBILL_NET_GETWAYBILLPRINT" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
                 <option name="expression" value="" />
               </GrepModel>
             </list>
@@ -240,7 +249,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="OpenApiCodeRefactor.TMS_WAYBILL_NET_GETWAYBILLPRINT" />
+                <option name="expression" value="当前线程池asyncTaskExecutor信息" />
               </GrepModel>
             </list>
           </option>
