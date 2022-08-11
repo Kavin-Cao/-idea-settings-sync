@@ -213,15 +213,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="getWaybillPrintData -&gt; 批量" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="getTmsWaybillPrintDataResponses TMS返回数据条数" />
               </GrepModel>
             </list>
@@ -240,6 +231,15 @@
           <option name="models">
             <list>
               <GrepModel>
+                <option name="expression" value="当前线程池asyncTaskExecutor信息" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
                 <option name="expression" value="" />
               </GrepModel>
             </list>
@@ -249,7 +249,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="当前线程池asyncTaskExecutor信息" />
+                <option name="expression" value="getWaybillPrintData -&gt; 批量" />
               </GrepModel>
             </list>
           </option>
