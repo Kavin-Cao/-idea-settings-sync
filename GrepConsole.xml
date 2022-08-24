@@ -249,6 +249,15 @@
           <option name="models">
             <list>
               <GrepModel>
+                <option name="expression" value="ky.connection" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
                 <option name="expression" value="" />
               </GrepModel>
             </list>
@@ -258,7 +267,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="ky.connection" />
+                <option name="expression" value="调用开放平台结束，apiCode: tms.waybill.net.getWaybillPrint" />
               </GrepModel>
             </list>
           </option>
