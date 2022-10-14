@@ -6,15 +6,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="hr.remoteEmployee.get" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="Get applicationConstant error: null" />
               </GrepModel>
             </list>
@@ -259,6 +250,15 @@
             <list>
               <GrepModel>
                 <option name="expression" value="WaybillDataAutoQueryController" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="OrderException" />
               </GrepModel>
             </list>
           </option>
