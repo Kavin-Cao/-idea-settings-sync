@@ -1,6 +1,6 @@
 <application>
   <component name="CodeMiniMap">
     <option name="pixelsPerLine" value="3" />
-    <option name="width" value="50" />
+    <option name="width" value="125" />
   </component>
 </application>
