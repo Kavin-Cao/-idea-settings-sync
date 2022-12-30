@@ -1,6 +1,7 @@
 <application>
   <component name="DebuggerSettings">
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapNever" />
+    <option name="WATCH_RETURN_VALUES" value="true" />
     <option name="EVALUATE_FINALLY_ON_POP_FRAME" value="EvaluateFinallyNever" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
@@ -91,6 +92,7 @@
   <component name="XDebuggerSettings">
     <data-views>
       <option name="showLibraryStackFrames" value="false" />
+      <show-values-inline>false</show-values-inline>
     </data-views>
     <general>
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
